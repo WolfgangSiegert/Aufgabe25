@@ -1,0 +1,1 @@
+g++ -Wall -Wno-c++98-compat -std=c++14 main.cpp Person.cpp Female.cpp Male.cpp Child.cpp -o Aufgabe25_Siegert
